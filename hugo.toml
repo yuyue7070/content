@@ -1,0 +1,20 @@
+baseURL = 'https://yuyue7070.github.io/'
+languageCode = 'zh-cn'
+title = 'yuyue'
+theme = "github-style"
+
+[params]
+  author = "rainbow"
+  description = "无"
+  github = "yuyue7070"
+  email = "yuyue7070@gmail.com"
+  url = "https://yuyue7070.github.io"
+  keywords = "blog"
+  rss = true
+  lastmod = true
+  favicon = "/images/github-mark.png"
+  avatar = "/images/avatar.png"
+  headerIcon = "/images/github-mark-white.png"
+  location = "China"
+  userStatusEmoji = "😀"
+  enableGitalk = false
