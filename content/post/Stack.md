@@ -5,6 +5,7 @@ author = "rainbow"
 tags = ["计算机", ""]
 cover = ""
 summary = "栈"
+
 +++
 
 
@@ -29,5 +30,7 @@ summary = "栈"
 
 ### 	静态变量与动态变量	188章：https://www.zhihu.com/pub/book/119893035
 
-​	
+#### 	梦开始的地方
+
+
 
